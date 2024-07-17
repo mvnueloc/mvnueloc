@@ -28,8 +28,3 @@
 <h3 align="left">My GitHub Stats</h3>  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mvnueloc&" alt="mvnueloc" /></p>
-
-![Manuel GitHub stats](https://github-readme-stats.vercel.app/api?username=mvnueloc&show_icons=true&theme=radical)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvnueloc&hide_progress=true)
