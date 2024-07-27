@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, my name is Manuel</h1>  
 <h3 align="center">A passionate about technology and programming. 🇲🇽</h3>  
     
-- 👨‍💻 I'm studying  **Artificial Intelligence Engineering at the National Polytechnic Institute.**
-- 🤓  I'm currently learning **about the functioning of machine learning models like LLMs and how they integrate with web development frameworks like React.**
+- 👨‍💻 **Currently studying** Artificial Intelligence Engineering at the National Polytechnic Institute.
+- 🤓 **Learning** about the functioning of machine learning models like LLMs and how they integrate with web development frameworks like React.
   
 <h3 align="left">Community:</h3> 
 
