@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="400px" /> 
     
-I'm currently studying an artificial intelligence engineering degree at ESCOM, where I combine my passion for software development with the world of machine learning.  In my free time, I dedicate myself to creating innovative projects and deepening into the latest trends in machine learning. 👨‍💻
+I'm currently studying an artificial intelligence engineering degree at [ESCOM](https://www.escom.ipn.mx/), where I combine my passion for software development with the world of machine learning.  In my free time, I dedicate myself to creating innovative projects and deepening into the latest trends in machine learning. 👨‍💻
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
@@ -19,15 +19,15 @@ I'm currently studying an artificial intelligence engineering degree at ESCOM, w
 <h3 align="left">Community:</h3> 
 
 - 👥 **'Una Linea a La Vez'**
-- 🎈ICPC **"3 devs, 1 paste"**.  
+- 🎈ICPC **'3 devs, 1 paste'**.  
 
 <h3 align="left">My GitHub Stats</h3>  
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height="180" hspace="6" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvnueloc&amp;hide=ShaderLab&amp;langs_count=6&amp;layout=compact&amp;theme=catppuccin_mocha#gh-dark-mode-only" alt="Top Langs"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img height="180" hspace="6" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvnueloc&amp;hide=ShaderLab&amp;langs_count=6&amp;layout=compact&amp;theme=default#gh-light-mode-only" alt="Top Langs"></a>
-  <a href="https://github.com/iivvaannxx/github-readme-stats#gh-dark-mode-only"><img height="180" hspace="6" align="center" src="https://github-readme-stats.vercel.app/api?username=mvnueloc&amp;show_icons=true&amp;theme=catppuccin_mocha#gh-dark-mode-only" alt="Ivan&#39;s GitHub stats-Dark"></a>
-  <a href="https://github.com/iivvaannxx/github-readme-stats#gh-light-mode-only"><img height="180" hspace="6" align="center" src="https://github-readme-stats.vercel.app/api?username=mvnueloc&amp;show_icons=true&amp;theme=default#gh-light-mode-only" alt="Ivan&#39;s GitHub stats-Light"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height="160" hspace="6" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvnueloc&amp;hide=ShaderLab&amp;langs_count=6&amp;layout=compact&amp;theme=catppuccin_mocha#gh-dark-mode-only" alt="Top Langs"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img height="160" hspace="6" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvnueloc&amp;hide=ShaderLab&amp;langs_count=6&amp;layout=compact&amp;theme=default#gh-light-mode-only" alt="Top Langs"></a>
+  <a href="https://github.com/iivvaannxx/github-readme-stats#gh-dark-mode-only"><img height="160" hspace="6" align="center" src="https://github-readme-stats.vercel.app/api?username=mvnueloc&amp;show_icons=true&amp;theme=catppuccin_mocha#gh-dark-mode-only" alt="Ivan&#39;s GitHub stats-Dark"></a>
+  <a href="https://github.com/iivvaannxx/github-readme-stats#gh-light-mode-only"><img height="160" hspace="6" align="center" src="https://github-readme-stats.vercel.app/api?username=mvnueloc&amp;show_icons=true&amp;theme=default#gh-light-mode-only" alt="Ivan&#39;s GitHub stats-Light"></a>
 </div>
 
 
